@@ -1,0 +1,27 @@
+<guide>
+  <guidetitle>Call Type 16</guidetitle>
+    <indexlist>none</indexlist>
+  <disclosure>none</disclosure>
+  <Tier1>
+    <step>
+      <steplabel>Risus imperdiet dapibus himenaeos.</steplabel>
+      <linkvariable>content.html</linkvariable>
+    </step>
+    <step>
+      <steplabel>Cum aliquam aliquet blandit.</steplabel>
+      <linkvariable>content.html</linkvariable>
+    </step>
+    <step>
+      <steplabel>Ultrices ornare hendrerit molestie.</steplabel>
+      <linkvariable>content.html</linkvariable>
+    </step>
+    <step>
+      <steplabel>Ridiculus viverra ad class.</steplabel>
+      <linkvariable>content.html</linkvariable>
+    </step>
+	<step>
+      <steplabel>Pulvinar facilisis vel integer.</steplabel>
+      <linkvariable>content.html</linkvariable>
+    </step>
+  </Tier1>
+</guide>

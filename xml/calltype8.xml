@@ -1,0 +1,23 @@
+<guide>
+  <guidetitle>Call Type 8</guidetitle>
+    <indexlist>none</indexlist>
+  <disclosure>none</disclosure>
+  <Tier1>
+  <step>
+      <steplabel>Consectetur laoreet sapien nostra.</steplabel>
+      <linkvariable>content.html</linkvariable>
+    </step>
+	<step>
+      <steplabel>Mauris porttitor aliquam condimentum.</steplabel>
+      <linkvariable>content.html</linkvariable>
+    </step>
+	<step>
+      <steplabel>Sodales mi fames auctor!</steplabel>
+      <linkvariable>content.html</linkvariable>
+    </step>
+	<step>
+      <steplabel>A vestibulum donec mattis.</steplabel>
+      <linkvariable>content.html</linkvariable>
+    </step>
+  </Tier1>
+</guide>

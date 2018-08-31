@@ -1,0 +1,39 @@
+<guide>
+  <guidetitle>Call Type 11</guidetitle>
+    <indexlist>none</indexlist>
+  <disclosure>none</disclosure>
+  <Tier1>
+    <step>
+      <steplabel>Eget porttitor nunc commodo.</steplabel>
+      <linkvariable>content.html</linkvariable>
+    </step>
+    <step>
+      <steplabel>Senectus nam suspendisse purus.</steplabel>
+      <linkvariable>content.html</linkvariable>
+    </step>
+    <step>
+      <steplabel>Lacus aenean suscipit in.</steplabel>
+      <linkvariable>content.html</linkvariable>
+    </step>
+	<step>
+      <steplabel>Nam, pulvinar tempus elementum.</steplabel>
+      <linkvariable>content.html</linkvariable>
+    </step>
+    <step>
+      <steplabel>Magnis neque molestie lacus!</steplabel>
+      <linkvariable>content.html</linkvariable>
+    </step>
+    <step>
+      <steplabel>Habitant ligula taciti amet.</steplabel>
+      <linkvariable>content.html</linkvariable>
+    </step>
+    <step>
+      <steplabel>Venenatis, auctor sem in?</steplabel>
+      <linkvariable>content.html</linkvariable>
+    </step>
+    <step>
+      <steplabel>Scelerisque elit hac ac.</steplabel>
+      <linkvariable>content.html</linkvariable>
+    </step>
+  </Tier1>
+</guide>

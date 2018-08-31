@@ -1,0 +1,69 @@
+<guide>
+  <guidetitle>CCD Tool</guidetitle>  <indexlist>
+    <instructions>Please select Call Type:</instructions>
+	<link>
+      <linkname>Call Type 1</linkname>
+      <linkxml>calltype1.xml</linkxml>
+    </link>
+	<link>
+      <linkname>Call Type 2</linkname>
+      <linkxml>calltype2.xml</linkxml>
+    </link>
+	<link>
+      <linkname>Call Type 3</linkname>
+      <linkxml>calltype3.xml</linkxml>
+    </link>
+    <link>
+      <linkname>Call Type 4</linkname>
+      <linkxml>calltype4.xml</linkxml>
+    </link>
+    <link>
+      <linkname>Call Type 5</linkname>
+      <linkxml>calltype5.xml</linkxml>
+    </link>
+	<link>
+      <linkname>Call Type 6</linkname>
+      <linkxml>calltype6.xml</linkxml>
+    </link>
+	<link>
+      <linkname>Call Type 7</linkname>
+      <linkxml>calltype7.xml</linkxml>
+    </link>
+	<link>
+      <linkname>Call Type 8</linkname>
+      <linkxml>calltype8.xml</linkxml>
+    </link>
+	<link>
+      <linkname>Call Type 9</linkname>
+      <linkxml>calltype9.xml</linkxml>
+    </link>
+	<link>
+      <linkname>Call Type 10</linkname>
+      <linkxml>calltype10.xml</linkxml>
+    </link>
+	<link>
+      <linkname>Call Type 11</linkname>
+      <linkxml>calltype11.xml</linkxml>
+    </link>
+	<link>
+      <linkname>Call Type 12</linkname>
+      <linkxml>calltype12.xml</linkxml>
+    </link>
+	<link>
+      <linkname>Call Type 13</linkname>
+      <linkxml>calltype13.xml</linkxml>
+    </link>
+	<link>
+      <linkname>Call Type 14</linkname>
+      <linkxml>calltype14.xml</linkxml>
+    </link>
+	<link>
+      <linkname>Call Type 15</linkname>
+      <linkxml>calltype15.xml</linkxml>
+    </link>
+	<link>
+      <linkname>Call Type 16</linkname>
+      <linkxml>calltype16.xml</linkxml>
+    </link>
+  </indexlist>
+</guide>

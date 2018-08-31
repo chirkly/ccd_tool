@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<link rel="stylesheet" href="lib/guide.css" />
+<script type="text/javascript" src="lib/jquery_1.9.js"></script>
+<script type="text/javascript" src="lib/guide.js"></script>
+
+<title>CCD Tool</title>
+</head>
+<body>
+<div class="main">
+	<header id="titlebar">
+        <div id="guide_title" class="guide_title">CCD Tool</div>
+        <div id="feat_title" class="guide_title" style="display:none">Add-Ons &amp; Services</div>
+        <div id="top_div_bar"></div>
+	</header> 
+    <nav id="top_navbar" class="navbar">
+        <button id="nav_features" class="nav_button">Add-Ons &amp; Services</button>
+        <button id="nav_calltype" class="nav_button">Disclosures</button>
+    </nav>
+    <nav id="bottom_navbar" class="navbar">
+    	
+        
+        <button id="return" class="nav_button red">Return to Call Types</button>
+        <button id="reset" class="nav_button full_reset">Reset Add-Ons &amp; Services</button>
+    </nav>
+    <div id="index" class="dyn_content">
+    	<div class="call_type_select bold">Make a selection below:</div>
+        <div id="type_list">
+            <nav id="list_1" class="index_list"></nav>
+            <nav id="list_2" class="index_list"></nav>
+        </div>
+        <div class="call_type_select bold" style="clear:both">Or:</div>        
+        <div id="opt_choice">        	
+            <div id="list_3" class="index_list">
+            	<nav id="feat_serv" class="item bold">Add-Ons &amp; Services</nav>
+            </div>
+        </div>
+        
+    </div>
+    <div id="features" class="dyn_content" style="display:none">
+    	<div class="disclose"></div>
+        <nav><ul class="item_list"></ul></nav>
+        <div class="side_div_bar"></div>
+    </div>
+    <div id="calltype" class="dyn_content" style="display:none">
+    	<div class="disclose"></div>
+        <nav><ul class="item_list"></ul></nav>
+        <div class="side_div_bar"></div>
+    </div>
+    <!-- Hiding / disabling as this only works on intranet
+    <div id="feedbox">
+		<div id="feed_button">Submit Feedback</div>
+	</div>
+    -->
+</div>
+<article id="idiv">
+  <iframe id="articlecontent" name="articlecontent" scrolling="auto" frameborder="0" allowtransparency="true" ></iframe>
+</article>
+<!-- Hiding / disabling as this only works on intranet
+<form id="im" method="POST" action=***removing intranet-only link*** target="_blank">
+          <INPUT TYPE="HIDDEN" NAME="Cat" ID="Cat" VALUE="CCD" >
+          <INPUT TYPE="HIDDEN" NAME="Subj" ID="Subj" VALUE="" >
+          <INPUT TYPE="HIDDEN" NAME="ref" ID="ref" VALUE="" >
+          <INPUT TYPE="SUBMIT" NAME="Feedback" ID="Feedback" class="feedbackButton" value="Feedback" >
+</form>-->
+</div>
+</body>
+</html>

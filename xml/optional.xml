@@ -1,0 +1,67 @@
+<optional>
+  <disclosure>Disclose if customer is adding or upon request.</disclosure>
+  <step>
+      <steplabel>Sodales mi fames auctor!</steplabel>
+      <linkvariable>content.html</linkvariable>
+    </step>
+	<step>
+      <steplabel>A vestibulum donec mattis.</steplabel>
+      <linkvariable>content.html</linkvariable>
+    </step>
+	<step>
+      <steplabel>Nullam viverra sem purus!</steplabel>
+      <linkvariable>content.html</linkvariable>
+    </step>
+	<step>
+      <steplabel>Eget porttitor nunc commodo.</steplabel>
+      <linkvariable>content.html</linkvariable>
+    </step>
+    <step>
+      <steplabel>Senectus nam suspendisse purus.</steplabel>
+      <linkvariable>content.html</linkvariable>
+    </step>
+    <step>
+      <steplabel>Lacus aenean suscipit in.</steplabel>
+      <linkvariable>content.html</linkvariable>
+    </step>
+	<step>
+      <steplabel>Nam, pulvinar tempus elementum.</steplabel>
+      <linkvariable>content.html</linkvariable>
+    </step>
+    <step>
+      <steplabel>Magnis neque molestie lacus!</steplabel>
+      <linkvariable>content.html</linkvariable>
+    </step>
+    <step>
+      <steplabel>Habitant ligula taciti amet.</steplabel>
+      <linkvariable>content.html</linkvariable>
+    </step>
+    <step>
+      <steplabel>Venenatis, auctor sem in?</steplabel>
+      <linkvariable>content.html</linkvariable>
+    </step>
+    <step>
+      <steplabel>Scelerisque elit hac ac.</steplabel>
+      <linkvariable>content.html</linkvariable>
+    </step>
+    <step>
+      <steplabel>Risus imperdiet dapibus himenaeos.</steplabel>
+      <linkvariable>content.html</linkvariable>
+    </step>
+    <step>
+      <steplabel>Cum aliquam aliquet blandit.</steplabel>
+      <linkvariable>content.html</linkvariable>
+    </step>
+    <step>
+      <steplabel>Ultrices ornare hendrerit molestie.</steplabel>
+      <linkvariable>content.html</linkvariable>
+    </step>
+    <step>
+      <steplabel>Ridiculus viverra ad class.</steplabel>
+      <linkvariable>content.html</linkvariable>
+    </step>
+	<step>
+      <steplabel>Pulvinar facilisis vel integer.</steplabel>
+      <linkvariable>content.html</linkvariable>
+    </step>
+</optional>
